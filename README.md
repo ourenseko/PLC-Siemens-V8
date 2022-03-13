@@ -2,4 +2,8 @@
 Programas realizados para autómatas cableados con entradas y salidas
 
 
-Es necesario el programa SIEMENS PLC V8.1 
+Se necesita:
+
+-El programa SIEMENS PLC V8.1 
+
+-Un Automata compatible
